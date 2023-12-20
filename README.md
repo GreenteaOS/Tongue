@@ -1,6 +1,6 @@
 # Tongue
 
-Translations, without any code, used by @GreenteaOS
+Translations, without any code, used by [Greentea OS](https://github.com/GreenteaOS)
 
 ## Thank you for your collaboration!
 
