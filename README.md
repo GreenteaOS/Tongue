@@ -2,6 +2,12 @@
 
 Translations, without any code, used by [Greentea OS](https://github.com/GreenteaOS)
 
+<p align="center">
+  <a href="https://github.com/GreenteaOS">
+  <img width="256" src="https://raw.githubusercontent.com/GreenteaOS/Tongue/kawaii/tongue.webp">
+  </a>
+</p>
+
 ## Thank you for your collaboration!
 
 Note: the submissions will be under CC0-1.0 license by default without the "attribution" requirement to include the authors' copyright notice.
